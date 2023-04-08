@@ -1,3 +1,4 @@
+![Screenshot (6)](https://user-images.githubusercontent.com/113242832/230712026-098f2a0a-8be2-44b1-b23a-f67ecde7a140.png)
 it created in january 2023 for colage project
 # issue-tracker-
 This is issue tracker mini project. The project is semester final project
